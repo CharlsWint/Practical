@@ -27,6 +27,7 @@ namespace Practical
 
         static void GameLoop()
         {
+            //loopstart here
             while (true)
             {
                 IAnimal encounteredAnimal = GetRandomAnimal();
